@@ -6,6 +6,8 @@ The **JS Quiz App** is an interactive web application designed to test users' kn
 
 ![image](https://github.com/Qyuzet/js-quiz-app/assets/93258081/57ded999-cabf-4516-9763-277389c256ca)
 
+![js-quiz-app demo](https://github.com/Qyuzet/js-quiz-app/assets/93258081/2362db0d-e014-43b5-adbe-f84bb28aab3a)
+
 
 ## Features
 
