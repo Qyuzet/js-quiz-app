@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **JS Quiz App** is an interactive web application designed to test users' knowledge through multiple-choice quizzes. Built using JavaScript, HTML, and CSS, this project showcases front-end development skills and provides a dynamic user experience. The app can be tried at [JS Quiz App Demo](https://qyuzet.github.io/js-quiz-app/)..
+The **JS Quiz App** is an interactive web application designed to test users' knowledge through multiple-choice quizzes. Built using JavaScript, HTML, and CSS, this project showcases front-end development skills and provides a dynamic user experience. The app can be tried at [JS Quiz App Demo](https://qyuzet.github.io/js-quiz-app/).
 
 ![image](https://github.com/Qyuzet/js-quiz-app/assets/93258081/57ded999-cabf-4516-9763-277389c256ca)
 
