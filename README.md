@@ -14,7 +14,7 @@ The **JS Quiz App** is an interactive web application designed to test users' kn
 - **Multiple Choice Questions**: Users can select from multiple options for each question.
 - **Immediate Feedback**: Correct and incorrect answers are indicated instantly.
 - **Score Tracking**: Users' scores are displayed at the end of the quiz.
-- **Responsive Design**: The app is accessible on various devices, including desktops and mobiles.
+- **Responsive Design**: The app is accessible on various devices, including desktops and mobiles...
 
 ## Installation
 
